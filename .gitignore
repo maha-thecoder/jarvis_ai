@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Audio recordings
+recordings/
+
+# Session memory
+memory/summaries/
+
+# Hugging Face cache
+models/
+
+# OS files
+.DS_Store
+Thumbs.db

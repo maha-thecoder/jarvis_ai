@@ -1,0 +1,14 @@
+numpy
+torch
+torchaudio
+sounddevice
+soundfile
+silero-vad
+transformers
+sentence-transformers
+huggingface-hub
+scipy
+onnxruntime
+tokenizers
+safetensors
+librosa

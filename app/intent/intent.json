@@ -1,0 +1,61 @@
+[
+    {
+        "intent": "OPEN_APP",
+        "examples": [
+            "open chrome",
+            "launch chrome",
+            "start chrome",
+            "open browser",
+            "run vscode",
+            "start visual studio code",
+            "open my editor"
+        ]
+    },
+
+    {
+        "intent": "CLOSE_APP",
+        "examples": [
+            "close chrome",
+            "exit browser",
+            "shutdown application",
+            "close vscode"
+        ]
+    },
+
+    {
+        "intent": "SEARCH_WEB",
+        "examples": [
+            "search the web",
+            "find something online",
+            "google something",
+            "look this up"
+        ]
+    },
+
+    {
+        "intent": "GET_TIME",
+        "examples": [
+            "what time is it",
+            "tell me current time",
+            "give me time"
+        ]
+    },
+
+    {
+        "intent": "PLAY_MUSIC",
+        "examples": [
+            "play music",
+            "start a song",
+            "play some music"
+        ]
+    },
+
+    {
+        "intent": "UNKNOWN",
+        "examples": [
+            "hello",
+            "thank you",
+            "random sentence"
+        ]
+    }
+]
